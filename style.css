@@ -197,7 +197,7 @@
 }
 .resume{
     width: 89%;
-    height: 1500px;
+    height: auto;
     /* background-color: burlywood; */
     overflow: hidden;
     margin: auto;
@@ -208,7 +208,7 @@
 }
 .box-resume{
     width: 100%;
-    height: auto;
+    height: 550px;
     /* background-color: aqua; */
     margin-top: 50px;
     display: flex;
@@ -217,7 +217,7 @@
 }
 .resume-1{
     width: 70%;
-    height:400px ;
+    height:auto;
     /* background-color: rgb(230, 221, 221); */
     margin-right: 10px;
     font-size: 30px;
